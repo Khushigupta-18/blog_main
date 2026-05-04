@@ -83,10 +83,11 @@ WSGI_APPLICATION = 'blog_main.wsgi.application'
 # https://docs.djangoproject.com/en/5.2/ref/settings/#databases
 
 
+# Database
+# This will use PostgreSQL on Render and SQLite locally if DATABASE_URL is not set
 DATABASES = {
     'default': dj_database_url.config(
-        # This will look for a DATABASE_URL environment variable
-        default=os.environ.get('DATABASE_URL'),
+        default=os.environ.get('DATABASE_URL', f"sqlite:///{BASE_DIR / 'db.sqlite3'}"),
         conn_max_age=600
     )
 }
