@@ -27,20 +27,24 @@ Responsive blogging interface
 
 📸 Screenshots
 
-###Homepage
-Add homepage screenshot here
+### Homepage
+<img width="933" height="627" alt="image" src="https://github.com/user-attachments/assets/5d51f91e-eb82-4e08-82ad-9073e36d9aa8" />
+<img width="1055" height="297" alt="image" src="https://github.com/user-attachments/assets/c534944b-7b28-44cd-9dd3-01e795752370" />
 
-###Blog Detail Page
-Add blog detail screenshot here
+### Posts Detail
+<img width="958" height="407" alt="image" src="https://github.com/user-attachments/assets/1f45e166-b548-428d-ad43-e9de080898a9" />
 
-###Dashboard
-Add dashboard screenshot here
+### Dashboard
+<img width="996" height="292" alt="image" src="https://github.com/user-attachments/assets/766c23f4-fc21-462a-9bc9-133f3fd52591" />
 
-###Admin Panel
-Add admin panel screenshot here
+### Users
+<img width="1008" height="385" alt="image" src="https://github.com/user-attachments/assets/9219f0b6-fa72-43ec-98e7-eb466781f0df" />
 
-###Search Functionality
-Add search screenshot here
+### Categories
+<img width="988" height="378" alt="image" src="https://github.com/user-attachments/assets/8b4e3711-977b-4298-bc86-acdde13240e3" />
+
+### Admin Panel
+<img width="603" height="414" alt="image" src="https://github.com/user-attachments/assets/031d0c84-8a42-49ac-974a-63bea8989975" />
 
 🧰 Tech Stack
 Python 3
@@ -164,6 +168,9 @@ PythonAnywhere
 Render
 Railway
 VPS + Gunicorn + Nginx
+
+🌐 Live Project:
+https://khushigupta18.pythonanywhere.com/
 
 📌 Learning Outcomes
 
